@@ -1,0 +1,8 @@
+INFO - 2022-10-01 21:00:16,202 - Logger Started
+INFO - 2022-10-01 21:07:55,417 - Contents of tag FullNm Extracted 
+INFO - 2022-10-01 21:08:29,023 - Contents of tag ClssfctnTp Extracted 
+INFO - 2022-10-01 21:09:12,402 - Contents of tag Issr Extracted 
+INFO - 2022-10-01 21:09:53,074 - Contents of tag CmmdtyDerivInd Extracted 
+INFO - 2022-10-01 21:10:30,214 - Contents of tag NtnlCcy Extracted 
+INFO - 2022-10-01 21:10:31,596 - DataFrame Created
+INFO - 2022-10-01 21:10:32,888 - CSV Created
