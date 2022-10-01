@@ -5,16 +5,16 @@ The test requirements mentioned were very vague, So i manually downloaded the XM
 The main code file is assignment.py
 
 The program is coded in Python3 and requires following Libraries. 
-• BeautifulSoup : to read xml
-• pandas : to create csv
-• logging : to create logs
+* BeautifulSoup : to read xml
+* pandas : to create csv
+* logging : to create logs
 
 Code reads the xml file, extracts and creates CSV of the following:
-• FinInstrmGnlAttrbts.FullNm
-• FinInstrmGnlAttrbts.ClssfctnTp
-• FinInstrmGnlAttrbts.CmmdtyDerivInd
-• FinInstrmGnlAttrbts.NtnlCcy
-• Issr
+* FinInstrmGnlAttrbts.FullNm
+* FinInstrmGnlAttrbts.ClssfctnTp
+* FinInstrmGnlAttrbts.CmmdtyDerivInd
+* FinInstrmGnlAttrbts.NtnlCcy
+* Issr
 
 Logging added : assignment.log
 
